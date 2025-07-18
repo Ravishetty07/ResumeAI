@@ -1,8 +1,4 @@
-Thanks, Ravi! Based on your full project documentation for **Resume AI – An AI-Powered Resume Analyzer and Builder**, here's a detailed and well-structured `README.md` perfectly suited for your GitHub repository:
 
----
-
-```markdown
 # 🧠 Resume AI – An AI-Powered Resume Analyzer and Builder
 
 Resume AI is an intelligent, web-based application designed to help users **build, optimize, and analyze** resumes using Artificial Intelligence. Built using Python, Streamlit, and advanced NLP techniques, the tool provides ATS compatibility analysis, keyword and skill gap detection, and job-role-specific recommendations to improve the effectiveness of resumes in real-world job markets.
@@ -128,14 +124,6 @@ streamlit run app.py
 * Secure encrypted cloud-based resume storage
 
 
----
-
-## 🧾 License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## 👤 Author
 
 **Ravi M Shetty**
@@ -144,12 +132,8 @@ This project is licensed under the **MIT License**.
 🔗 [LinkedIn](https://www.linkedin.com/in/ravi-m-shetty/)
 💻 [GitHub](https://github.com/Ravishetty07)
 
----
 
 > “A well-crafted resume is your passport to opportunity. Resume AI helps you build it smarter.” 💼✨
 
-```
-
----
 
 
