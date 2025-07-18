@@ -52,7 +52,7 @@ Get real-time feedback, boost your resume's impact, and maximize your chances of
 
 ## 👨‍💻 Live Demo
 
-Try it Now: [Open in Streamlit](https://your-live-link-here)
+Try it Now: [Open in Streamlit](https://resumeai-project.streamlit.app/)
 
 ---
 
