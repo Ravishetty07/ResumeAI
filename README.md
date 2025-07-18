@@ -7,7 +7,7 @@ Resume AI is an intelligent, web-based application designed to help users **buil
 
 ## 🌐 Preview
 
-![Preview](assets/preview-black.png) <!-- Add your preview screenshot later -->
+![Preview](assets/image.png) <!-- Add your preview screenshot later -->
 
 ---
 
